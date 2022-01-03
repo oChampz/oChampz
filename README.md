@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @oChampz
-- 👀 I’m interested in Games
-- 🌱 I’m currently learning how to make Discord-coustom-api
+- 👀 I’m interested in Games / Bots
+- 🌱 I’m currently learning how to make Discord-Things
 - 📫 How to reach me Discord:oChampz#6666
